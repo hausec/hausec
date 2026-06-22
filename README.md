@@ -55,11 +55,11 @@
 ## Attributed CVEs
 | CVE |
 |--------------|
-|CVE-2026-9258|
-|CVE-2026-9259|
-|CVE-2026-9260|
-|CVE-2026-9261|
-|CVE-2026-9262|
+|CVE-2026-9258(https://www.cve.org/CVERecord?id=CVE-2026-9258)|
+|CVE-2026-9259(https://www.cve.org/CVERecord?id=CVE-2026-9259)|
+|CVE-2026-9260(https://www.cve.org/CVERecord?id=CVE-2026-9260)|
+|CVE-2026-9261(https://www.cve.org/CVERecord?id=CVE-2026-9261)|
+|CVE-2026-9262(https://www.cve.org/CVERecord?id=CVE-2026-9262)|
 ## Conference Talks
 | Conference | Talk |
 |--------------|------------|
